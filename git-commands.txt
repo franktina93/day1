@@ -1,0 +1,5 @@
+git init - to initialise the git repo
+
+git branch -M main - to change the curreent branch name to main
+
+git remote add origin https://github.com/franktina93/day1.git - to add remote origin to the local repo
