@@ -1,3 +1,5 @@
 mvn clean pakage
 
 mvn build
+
+mvn clean install
